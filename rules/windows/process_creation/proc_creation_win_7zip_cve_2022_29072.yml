@@ -10,6 +10,8 @@ date: 2022/04/17
 modified: 2022/11/18
 tags:
     - cve.2022.29072
+    - attack.privilege_escalation
+    - attack.t1574
 logsource:
     product: windows
     category: process_creation
